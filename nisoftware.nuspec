@@ -4,7 +4,7 @@
   <metadata>
     <id>ni-frcgametools</id>
     <title>NI FRC Game Tools</title>
-    <version>19.0.0.1</version>
+    <version>19.0.0</version>
     <packageSourceUrl>https://github.com/DarthJake/ni-frcgametools</packageSourceUrl>
     <authors>NI</authors>
     <owners>DarthJake</owners>
@@ -14,7 +14,7 @@
     <tags>nisoftware frc ni national instruments first robotics admin</tags>
     <copyright>© 2020 NATIONAL INSTRUMENTS CORP. ALL RIGHTS RESERVED.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.jsdelivr.net/gh/Sabercat-Robotics-4146-FRC/Sabercat-Robotics-4146-FRC.github.io@master/img/CBRE.png</iconUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/DarthJake/ni-frcgametools@master/logo_2020.jpg</iconUrl>
     <dependencies>
       <dependency id="chocolatey-isomount.extension" />
     </dependencies>
