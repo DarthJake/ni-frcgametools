@@ -2,8 +2,8 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>nisoftware</id>
-    <title>NISoftware (Install)</title>
+    <id>ni-frcgametools</id>
+    <title>NI FRC Game Tools</title>
     <version>19.0.0.1</version>
     <packageSourceUrl>https://github.com/DarthJake/ni-frcgametools</packageSourceUrl>
     <authors>NI</authors>
@@ -11,7 +11,7 @@
     <summary>National Instruments FRC Game Tools required for competition in the FIRST FRC Robotics competition.</summary>
     <description>The National Instruments FRC Game Tools is required for programming and controlling robots in the FIRST FRC Robotics competition.</description>
     <projectUrl>https://www.ni.com/en-us/support/downloads/drivers/download.frc-game-tools.html</projectUrl>
-    <tags>nisoftware frc ni first robotics admin</tags>
+    <tags>nisoftware frc ni national instruments first robotics admin</tags>
     <copyright>© 2020 NATIONAL INSTRUMENTS CORP. ALL RIGHTS RESERVED.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.jsdelivr.net/gh/Sabercat-Robotics-4146-FRC/Sabercat-Robotics-4146-FRC.github.io@master/img/CBRE.png</iconUrl>
