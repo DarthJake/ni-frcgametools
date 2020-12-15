@@ -4,7 +4,7 @@
   <metadata>
     <id>ni-frcgametools</id>
     <title>NI FRC Game Tools</title>
-    <version>19.0.0</version>
+    <version>19.0.0.20201215</version>
     <packageSourceUrl>https://github.com/DarthJake/ni-frcgametools</packageSourceUrl>
     <authors>NI</authors>
     <owners>DarthJake</owners>
