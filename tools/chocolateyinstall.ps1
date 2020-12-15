@@ -13,7 +13,7 @@ $packageArgs = @{
   checksum       = '63da2e87bd66c6003daa2e31283207eecaf2a91dbdae2b060848ad95ab63c094'
   checksumType   = 'sha256'
   silentArgs     = '--passive --accept-eulas --prevent-reboot --prevent-activation'
-  validExitCodes = @(0, -125071)
+  validExitCodes = @(0, -125071, -126300)
 }
 
 Install-ChocolateyIsoPackage @packageArgs #https://docs.chocolatey.org/en-us/guides/create/mount-an-iso-in-chocolatey-package
